@@ -16,9 +16,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React xxx
         </a>
       </header>
+      <button className="py-2 px-4 font-semibold rounded-lg shadow-md text-white bg-green-500 hover:bg-green-700 lg:w-40">
+        Click me
+      </button>
     </div>
   );
 }
